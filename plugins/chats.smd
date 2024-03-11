@@ -24,13 +24,13 @@
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
+   * Created By Allen Oberoii.
    * © 2024 Suhail-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Suhail_Md = "Allen Oberoii Whatsapp bot md"
 let {smd , prefix,Config} = require("../lib")
 
 // ============================ CHATS SETTINGS ============================ 
