@@ -1,38 +1,38 @@
 {
   "name": "—͟͞͞★Ꭺ𝕝𝕝ԑ𝒏—͟͞͞★",
   "description": "I am Allen Oberoii Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d00d4fbf7887672e586c8.jpg",
+  "logo": "https://telegra.ph/file/06cdc1b3d38ae22206c58.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",    
+      "description": "Name of Bot👾Owner💦",    
       "value": "➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍 ✰ 𝐎𝐁𝐄𝐑𝐎𝐈𝐈",
       "required" :true
     },   
      
     "WELCOME": {
-      "description": "put 'false' or 'true' to enable & disable WELCOME ",
+      "description": "put 'false' or 'true' to enable & disable WELCOME😚",
       "value": "true",
       "required" :false
     },
      
     "GOODBYE": {
-      "description": "put 'false' or 'true' to enable & disable GOODBYE ",
+      "description": "put 'false' or 'true' to enable & disable GOODBYE😾",
       "value": "false",
       "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": " NAME FOR🥲BOT",
       "required" :false,    
-      "value": "☣)-ཌꜱᴜᴋᴜɴᴀད-(☣"
+      "value": "👾❤️)-ཌꜱᴜᴋᴜɴᴀད-(🥵💦"
     }, 
     "IMAGE": {
-      "description": "Image for bot",
+      "description": "Sexy💦Image for bot🥵",
       "required" :false,    
-      "value": "https://telegra.ph/file/d00d4fbf7887672e586c8.jpg"
+      "value": "https://telegra.ph/file/06cdc1b3d38ae22206c58.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -124,7 +124,7 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
