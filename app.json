@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Sexy💦Image for bot🥵",
       "required" :false,    
-      "value": "https://telegra.ph/file/06cdc1b3d38ae22206c58.jpg"
+      "value": "https://i.imgur.com/INBwK1U.jpeg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
