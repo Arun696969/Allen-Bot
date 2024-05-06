@@ -1,6 +1,6 @@
 {
   "name": "—͟͞͞★Ꭺ𝕝𝕝ԑ𝒏—͟͞͞★",
-  "description": "I am Allen Oberoii Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "description": "I am Allen Oberoii. this is Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t only for bakchodi😂💦💋",
   "logo": "https://telegra.ph/file/06cdc1b3d38ae22206c58.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
@@ -9,13 +9,13 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot👾Owner💦",    
-      "value": "➳ᴹᴿメ𝐀𝐋𝐋𝐄𝐍 ✰ 𝐎𝐁𝐄𝐑𝐎𝐈𝐈",
+      "value": "𝑨𝑳𝑳𝑬𝑵☠️𝑶𝑩𝑬𝑹𝑶𝑰𝑰🔥",
       "required" :true
     },   
      
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME😚",
-      "value": "true",
+      "value": "false",
       "required" :false
     },
      
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "14143769495"
+      "value": "918318542882,null,"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "☣)-ཌꜱᴜᴋᴜɴᴀད-(☣",
+      "value": "𝚫𝐋𝐋𝚵𝚴-𝚩𝚯𝚻|❤️",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "🌼𝑨𝑨𝑹𝑼 𝑨𝑳𝑾𝑨𝒀𝑺 𝑳𝑶𝑽𝑬 𝑴𝑰𝑺𝑺✨#𝑫💕🫶🏻🌎:𝐀𝐥𝐥𝐞𝐧 𝐎𝐛𝐞𝐫𝐨𝐢𝐢",
+      "value": "🌼𝑨𝑨𝑹𝑼 𝑨𝑳𝑾𝑨𝒀𝑺 𝑳𝑶𝑽𝑬 𝑴𝑰𝑺𝑺✨#𝑫💕🫶🏻🌎|💦",
       "required": false 
     }
   }, 
