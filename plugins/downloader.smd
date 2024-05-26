@@ -19,17 +19,17 @@
    * @project_name : Suhail-Md
    * @author : Suhail Tech Info
    * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @description : Allen-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
    * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * © 2024 Allen Oberoii.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Suhail_Md = "Allen Bot Whatsapp bot md"
 let baseApi = process.env.API_SMD || global.api_smd || "https://api-smd-1.vercel.app"
 // let baseApi= 'https://api-smd.vercel.app';
 
