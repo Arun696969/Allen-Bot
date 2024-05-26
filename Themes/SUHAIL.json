@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
     "AUTHOR": "Allen",
-    "theme": "😚💘!!—•❤𝑨𝑳𝑳𝑬𝑵 𝑶𝑩𝑬𝑹𝑶𝑰𝑰•-)♪👀🌸",
+    "theme": "»❝𓂃❤️✨⃝𝑨𝑳𝑳𝑬𝑵 𝑶𝑩𝑬𝑹𝑶𝑰𝑰✨⃝🌎𓂃❞«",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,7 +11,7 @@
             "UPDATED_LOCAL": "*🥵ufff💦Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Allen-Bot",
+            "botName": "»❝𓂃❤️✨⃝𝚫𝐋𝐋𝚵𝚴-𝚩𝚯𝚻✨⃝🌎𓂃❞«",
             "body": "whatsapp User Bot", 
             "greet2" : "Thanks To Allen Oberoii",
             "pic1": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg", 
@@ -32,8 +32,8 @@
             "demote": "Uhh,Admin Role Taken back",
             "antlink": "Link Detected *bsdk👺☠️* \n*Chala ja bsdk😕⚠️💯*",
             "session": "\n*This is your session.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Allen Oberoii*",
-            "mention": " Please mention My sexy🥵Owner🌎💕",
-            "title": "*_💸𝑨𝑳𝑳𝑬𝑵🥵𝑶𝑩𝑬𝑹𝑶𝑰𝑰💦_*",
+            "mention": "Please mention My sexy🥵Owner🌎💕",
+            "title": "*_»❝𓂃❤️✨⃝𝑨𝑳𝑳𝑬𝑵 𝑶𝑩𝑬𝑹𝑶𝑰𝑰✨⃝🌎𓂃❞«_*",
             "footer": "𝚫𝐋𝐋𝚵𝚴-𝚩𝚯𝚻🔥 \n www.youtube.com/c/Curious_hacker",
             "by": "Made by: Allen Oberoii",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
@@ -41,12 +41,12 @@
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "oye😤this command is only for my sexy Allen babu🥵💦,love you mera bachha❤️🥺ummaaahh💋!",
-            "botAdmin": "ᴘʀᴏᴠɪᴅᴇ ᴀᴅᴍɪɴ ʀᴏʟe to my Allen babe for use of bot.😾💦",
-            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ sexy🥵Allen❣️babu😚,I love my Allen babu...😻umaaaahh💋💦",
-            "group": "*Babu🥺💋this feature is only for group🥺💦,love you Allen darling💗💋*",
-            "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ sweet Allen darling🥺💯",
-            "bot": "oye😒🥺this bot command is only for my sexy babu🥵💦,love you mera babu❤️.ummaaahh💋!",
+            "admin": "oye😤this command is only for my sexy Allen babu🥵💦,💸dur rho mere babu se😏🍁!",
+            "botAdmin": "ᴘʀᴏᴠɪᴅᴇ ᴀᴅᴍɪɴ ʀᴏʟe to my Allen babu for use of bot.😾💦",
+            "owner": "😭ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs only for my sexy👾Allen💋Babu😐.. Mere babu se dur rho tum💸😏",
+            "group": "*oye😤this command is only for my sexy Allen babu🥵💦,💸dur rho mere babu se😏🍁!*",
+            "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ sweet Allen darling🥺💯,Bhag yha se gnde insaan😐👾",
+            "bot": "oye😤this bot command is only for my sexy Allen babu🥵💦,💸dur rho mere babu se😏🍁!",
             "wait": "*🥺▄︻デBABU YAAR WAIT KRO══━一😓💔*"
         },
         "error": {
