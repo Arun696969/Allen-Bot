@@ -2,7 +2,7 @@
 <p align="center"> Introducing Allen-Bot, It is designed to bring a whole new level of bakchodi to your boring WhatsApp use. </p>
 
  
-<h3 align="center"> ALLEN IS SOLVING❤️🔥YOUR PROBLEM🤜🏻🤛🏻! </h3> 
+<h3 align="center"> ALLEN IS SOLVING❤️🔥YOUR HEROKU BAN PROBLEM🤜🏻🤛🏻! </h3> 
 
 
 
